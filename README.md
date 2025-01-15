@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Geshan</h1>
-<h3 align="center">I’m an undergraduate student at the University of Michigan, studying **Molecular, Cellular, and Developmental Biology (MCDB)and Biophysics. I aspire to contribute to biomedical research with a focus on hearing loss mechanisms and neural studies.</h3>
+<h3 align="center">I’m an undergraduate student at the University of Michigan, studying Molecular, Cellular, and Developmental Biology (MCDB)and Biophysics. I aspire to contribute to biomedical research with a focus on hearing loss mechanisms and neural studies.</h3>
 
 - 🔭 I’m currently working on ImmuneViz is a simple yet effective tool designed to visualize immunological data [ImmuneViz](https://github.com/MaggieCoder/ImmuneViz)
 
